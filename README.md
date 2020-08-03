@@ -1,4 +1,4 @@
-# -
-回家地址 https://HuiJiaDiZhi.com
+# 回家地址 HuiJiaDiZhi.com
 
-![https://www.huijiadizhi.com](https://raw.githubusercontent.com/huijiadizhi/-/master/button.png)
+
+<a href="https://www.huijiadizhi.com" target="_blank"><img src="https://raw.githubusercontent.com/huijiadizhi/-/master/button.png"  /></a>
