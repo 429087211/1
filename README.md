@@ -1,7 +1,7 @@
 <a href="https://www.huijiadizhi.com" target="_blank"><img src="https://raw.githubusercontent.com/huijiadizhi/-/master/button.png"  /></a>
 
-# 回家地址 → https://www.huijiadizhi.com
-
+# 回家地址1 → https://www.huijiadizhi.com
+# 回家地址2 → https://ebay.com/usr/hujiahuidizhi
 
 # Telegram群 → https://t.me/huijiadizhi
 # 粉丝QQ群 → https://at.umtrack.com/8PPzim?cid=22987
