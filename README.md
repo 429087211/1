@@ -2,7 +2,7 @@
 
 
 
-# [成人APP推荐1](https://github.com/91porn-pornhub/www.cav.ooo/) → https://www.cavhot.com 
+# [成人APP推荐1](https://github.com/91porn-pornhub/www.cav.ooo/) → https://app.cavhot.com 
 # [成人APP推荐2](https://github.com/91porn-pornhub/www.cav.ooo/) → https://www.cav.dog 
 https://www.cav1.top/ 
 
