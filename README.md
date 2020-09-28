@@ -8,7 +8,9 @@
 
 永久回家地址1 → <a href="https://www.HuiJiaDiZhi.com" target="_blank">https://www.HuiJiaDiZhi.com</a> 
 
-永久回家地址2 → <a href="https://huijiadizhi.github.io/1/" target="_blank">https://HuiJiaDiZhi.github.io/1/</a> 
+永久回家地址2 → <a href="https://www.ebay.com/usr/huijiadizhi" target="_blank">https://www.ebay.com/usr/huijiadizhi</a> 
+
+永久回家地址3 → <a href="https://huijiadizhi.github.io/1/" target="_blank">https://HuiJiaDiZhi.github.io/1/</a> 
 
 
 
